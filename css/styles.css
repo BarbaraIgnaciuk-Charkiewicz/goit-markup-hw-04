@@ -302,7 +302,9 @@ background-color: #F5F4FA;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    gap: 10px;  
+    gap: 10px; 
+    padding-left: 32px;
+    padding-right: 32px;
 }
 .button-menu{
     display: flex;
